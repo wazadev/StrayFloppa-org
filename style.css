@@ -35,10 +35,12 @@ p {
   border-radius: 5px;
   cursor: pointer;
 }
+
 .container-button {
-  position: relative;
-  top: -20px;
+  margin-top: 20px; /* Ajuste el margen superior según sea necesario */
 }
 
+.container-button {
+  margin-top: 20px; /* Ajuste el margen superior según sea necesario */
+}
 
-  
