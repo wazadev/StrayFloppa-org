@@ -2,3 +2,4 @@ V1.0 = creacion del sitio web, se agregaron gifs y textos de porque donar, y un 
 V1.1 = se cambiaron los gifs y mejor ortografia
 V1.2 = se agrego un boton a otra fundacion benefica para ayudar perros callejeros
 V1.3 = Mr fresh update + el updates.txt update + HelloStreetcatWIKI update
+V1.4 = Videos and images of stray cats. DID GREENGOS SEE THAT? HA HA HA. It would never be a scam. I'm just a good person. Now don't talk to me
