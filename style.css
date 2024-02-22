@@ -48,4 +48,7 @@ img {
   width: 33%;
   height: 33%;
 }
-
+video {
+  width: 500px;
+  height: 300px;
+}
